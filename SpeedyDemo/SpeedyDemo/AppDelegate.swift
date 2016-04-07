@@ -20,15 +20,15 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
 //        Speedy.request(
 //            Method.POST,
-//            "http://192.168.129.120/V1/Students/login",
+//            "",
 //            parameters: [
 //                "androidVersion": 25,
 //                "appVername": "2.3.3",
 //                "networkStatus": 1,
-//                "password": "200820e3227815ed1756a6b531e7e0d2",
-//                "phoneModel": "Simulator",
+//                "password": "",
+//                "phoneModel": "",
 //                "source": 3,
-//                "username": "18580897856",
+//                "username": "",
 //            ],
 //            encoding: ParameterEncoding.URL,
 //            headers: nil
