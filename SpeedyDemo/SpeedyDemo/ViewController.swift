@@ -95,13 +95,13 @@ class ViewController: UIViewController {
         
         //日志文件上传
 //        let time = NSNumber(double: 1458176707.405045)
-//        let sid = NSNumber(integer: 135887)
+//        let sid = NSNumber(integer: )
 //        let parameter = ["sid": sid, "time": time]
 //        let file = NSBundle.mainBundle().URLForResource("fresh", withExtension: "zip")!
 //        
 //        Speedy.upload(
 //            Method.POST,
-//            "http://192.168.129.120/V1/Public/appLogUpload",
+//            "",
 //            parameters: parameter,
 //            headers: nil,
 //            encodingMemoryThreshold: Manager.MultipartFormDataEncodingMemoryThreshold) {
